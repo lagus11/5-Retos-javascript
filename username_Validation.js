@@ -1,4 +1,3 @@
-//Ejercicio no hecho por mi-- Falta realizar mi version.
 function CodelandUsernameValidation(str) { 
     
     const regex = /^[a-zA-Z][a-zA-Z0-9_]*[^_]$/g
